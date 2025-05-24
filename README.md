@@ -13,4 +13,4 @@ II-QUE HACE CADA ARCHIVO
 -El archivo "modelo_lib_arduino.zip" es el modelo de la ia exportado en una libreria de arduino para poder cargarlo a la ESP32CAM
 -El archivo "CONTROLDESERVO1" es el codigo en un proyecto de arduino IDE que se le cargo a el arduino para que moviera los actuadores 
 -El archivo "CamaraIA_VER-1.0.1.ino" es el codigo que se le cargo el esp32cam para que detectara las monedas (solo funciona con la libreria del modelo)
-
+-El archivo "PIA_riel_de_monedas_con_IA.ipynb" es el codigo con el que se entreno la inteligencia artificial.
