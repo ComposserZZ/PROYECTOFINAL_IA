@@ -10,5 +10,6 @@ MONEDA.
 II-QUE HACE CADA ARCHIVO 
 
 -El archivo "SATASET-MONEDAS" como su nombre lo dice es el dataset con la cual se entreno el modelo de la IA
--El archivo "
+-El archivo "modelo_lib_arduino.zip" es el modelo de la ia exportado en una libreria de arduino para poder cargarlo a la ESP32CAM
+-El archivo 
 
