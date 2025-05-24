@@ -8,4 +8,7 @@ MONEDA EN EL CONTENEDOR QUE LE CORRESPONDE; A SU VES TAMBIEN CONTROLARA UNA PANT
 MONEDA.
 
 II-QUE HACE CADA ARCHIVO 
-El archivo 
+
+-El archivo "SATASET-MONEDAS" como su nombre lo dice es el dataset con la cual se entreno el modelo de la IA
+-El archivo "
+
