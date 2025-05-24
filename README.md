@@ -11,5 +11,6 @@ II-QUE HACE CADA ARCHIVO
 
 -El archivo "SATASET-MONEDAS" como su nombre lo dice es el dataset con la cual se entreno el modelo de la IA
 -El archivo "modelo_lib_arduino.zip" es el modelo de la ia exportado en una libreria de arduino para poder cargarlo a la ESP32CAM
--El archivo 
+-El archivo "CONTROLDESERVO1" es el codigo en un proyecto de arduino IDE que se le cargo a el arduino para que moviera los actuadores 
+-El archivo "CamaraIA_VER-1.0.1.ino" es el codigo que se le cargo el esp32cam para que detectara las monedas (solo funciona con la libreria del modelo)
 
